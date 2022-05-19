@@ -1,0 +1,5 @@
+Download xmrig-6.12.1
+
+Extract files
+
+$ ./xmrig --coin 'monero' -o xmrpool.eu:5555 -u 43qXFB5vxSCb2rvfwfYrj6JfjNNeHuZkpgTpdXwRtzjT55StoP3GGAtM2DqE12RRdJYug44H8kvMUh4FdoQSUMTt1id3DkW -p x
